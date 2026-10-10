@@ -1,0 +1,12 @@
+numpy
+pandas
+opencv-python
+tensorflow
+keras
+scikit-learn
+librosa
+matplotlib
+seaborn
+streamlit
+joblib
+python-speech-features
